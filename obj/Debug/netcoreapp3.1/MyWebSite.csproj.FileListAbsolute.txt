@@ -388,9 +388,10 @@ C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\bin\Debug\netcoreapp3.1\ru\Micros
 C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\MyWebSite.csproj.CoreCompileInputs.cache
-C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\MyWebSite.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\MyWebSite.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servis.cshtml.g.cs
 C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Iletisim.cshtml.g.cs
 C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Proje.cshtml.g.cs
+C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\MyWebSite.csproj.CoreCompileInputs.cache
+C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\MyWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ohl\Desktop\Proje\MyWebSite\MyWebSite\obj\Debug\netcoreapp3.1\MyWebSite.MvcApplicationPartsAssemblyInfo.cache
