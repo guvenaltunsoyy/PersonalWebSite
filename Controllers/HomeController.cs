@@ -47,7 +47,7 @@ namespace MyWebSite.Controllers
                 MailMessage msj = new MailMessage();
                 msj.From = new MailAddress(m.Email, m.Adi + " " + m.Soyadi);
                 msj.To.Add("infoyaprakyildirim@gmail.com");
-                msj.Subject = m.Konu + " " + m.Email + " -" + m.Telefon;
+                msj.Subject = m.Konu + " " + m.Email ;
                 msj.Body = m.Mesaj;
 
                 client.Send(msj);
