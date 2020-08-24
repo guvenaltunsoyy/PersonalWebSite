@@ -43,8 +43,7 @@ namespace MyWebSite.Controllers
             {
                 Console.WriteLine(" POSTGRESQL TEST 1 2 3");
 
-                string connString = "Host=ec2-54-247-118-139.eu-west-1.compute.amazonaws.com;Username=bxdchfsgsxrsds;" +
-                                "Password=44a3d92cd28bd7ca81e320271be62264697c4e980fcab3149824cdf30f0f9efa;Database=d7fhnt9djkdbps;trustServerCertificate=false;Integrated Security=true;Pooling=true;";
+                string connString = "Host=ec2-54-247-118-139.eu-west-1.compute.amazonaws.com;Username=bxdchfsgsxrsds;Password=44a3d92cd28bd7ca81e320271be62264697c4e980fcab3149824cdf30f0f9efa;Database=d7fhnt9djkdbps;Trust Server Certificate=true;Integrated Security=true;Pooling=true;sslmode=Require;";
 
                 await using var conn = new NpgsqlConnection(connString);
                 await conn.OpenAsync();
